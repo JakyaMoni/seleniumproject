@@ -3,7 +3,9 @@ package seleniumproject;
 public class browser {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
+		int a=45;
+		System.out.println(a);
 
 	}
 
